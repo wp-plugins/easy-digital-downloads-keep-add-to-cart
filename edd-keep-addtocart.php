@@ -3,7 +3,7 @@
 Plugin Name: Easy Digital Downloads - Keep Add To Cart
 Plugin URI: http://mintplugins.com/edd-location-export
 Description: Keep the "Add To Cart" ajax button on the screen instead of switching to a "Checkout" button. This way, multiples can be added to the cart.
-Version: 1.0.0.0
+Version: 1.0.0.1
 Author: Mint Plugins
 Author URI: http://mintplugins.com
 License: GPLv2 or later

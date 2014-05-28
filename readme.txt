@@ -6,7 +6,7 @@ Donate link: http://pippinsplugins.com/support-the-site
 Tags: download, downloads, e-store, eshop, digital downloads, e-downloads, ecommerce, e commerce, e-commerce, selling, wp-ecommerce, wp ecommerce, mordauk, Pippin Williamson, pippinsplugins. mintplugins, reports, add-on
 Requires at least: 3.3
 Tested up to: 3.9
-Stable Tag: 1.0.0.0
+Stable Tag: 1.0.0.1
 License: GNU Version 2 or Any Later Version
 
 Keep the "Add To Cart" ajax button on the screen instead of switching to a "Checkout" button. This way, multiples can be added to the cart.
@@ -38,8 +38,10 @@ Would you like to help translate the plugin into more languages? [Join our WP-Tr
 == Changelog ==
 
 
-= 1.0.0.0: May 24, 2014 =
+= 1.0.0.1: May 28, 2014 =
+Makes sure the button never leaves - and puts notifications ON the button rather than using a separate notice. Makes a smoother over-all experience.
 
+= 1.0.0.0: May 24, 2014 =
 * First release!
 
 
