@@ -5,7 +5,7 @@ Contributors: johnstonphilip, mintplugins, mordauk
 Donate link: http://pippinsplugins.com/support-the-site
 Tags: download, downloads, e-store, eshop, digital downloads, e-downloads, ecommerce, e commerce, e-commerce, selling, wp-ecommerce, wp ecommerce, mordauk, Pippin Williamson, pippinsplugins. mintplugins, reports, add-on
 Requires at least: 3.3
-Tested up to: 3.9
+Tested up to: 4.2
 Stable Tag: 1.0.0.1
 License: GNU Version 2 or Any Later Version
 
@@ -19,7 +19,7 @@ Normally, when using ajax add-to-cart, the “Add To Cart” button is auto-hidd
 
 **Languages**
 
-Easy Digital Downloads - Location Export as been translated into the following languages:
+Easy Digital Downloads - Keep AddToCart as been translated into the following languages:
 
 1. English 
 
